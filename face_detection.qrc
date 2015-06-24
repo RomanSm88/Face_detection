@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Face_detection">
+        <file>Resources/Fon_video.bmp</file>
+    </qresource>
+</RCC>
